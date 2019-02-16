@@ -1,5 +1,5 @@
 # MemeMe 2.0: 
-Third project - iOS Developer Nanodegree Program (Udacity)_
+Third project - iOS Developer Nanodegree Program (Udacity)
 
 ## Project Overview
 
